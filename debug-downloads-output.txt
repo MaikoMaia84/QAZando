@@ -1,0 +1,81 @@
+﻿URL https://automationpratice.com.br/my-account/customer-download
+BODY TEXT START:
+ Promo├º├Áes especiais dispon├¡veis.Aproveitar...
+
+ Acompanhe seu pedido
+test@example.com
+HOME 
+SHOP 
+PAGES 
+4
+3
+HOME
+SHOP
+FEATURE
+BLOGS
+PAGES
+Address: Your address goes here.
+Call Us: 0123456789, 0123456789
+Email: demo@example.com
+WishlistCartCheckout
+Address: Your address goes here.
+Call Us: 0123456789, 0123456789
+Email: demo@example.com
+WishlistCartCheckout
+Shopping Cart
+Fit-Flare Dress
+1 x $52
+Midi Dress
+1 x $14
+Tulip Dress
+1 x $41
+Subtotal:
+$107.00
+VIEW CART
+CHECKOUT
+Wishlist
+Boho Tops for Girls
+1 x46
+Skater Dress
+1 x74
+Rocking Chair
+1 x918
+Easy Chair
+1 x864
+VIEW WISHLIST
+Search
+DASHBOARD
+ORDERS
+DOWNLOADS
+ADDRESSES
+ACCOUNT DETAILS
+LOGOUT
+Download Invoices
+Product	Ordered	Status	Download
+Black T-Shirt For Woman	May 10, 2018	Paid	Click Here To Download Your Invoice
+Maxi Dress	Sep 11, 2018	Paid	Click Here To Download Your Invoice
+
+QAZANDO ├® o maior e mais completo site de automa├º├úo de testes do Brasil. Acesse www.qazando.com.br e aproveite os melhores cursos.
+
+INFORMATION
+Home
+About us
+Privacy Policy
+Frequently Questions
+Order Tracking
+Compare
+SHOP
+Cart View One
+Cart View Two
+Empty Cart
+Checkout View One
+Checkout View Two
+Wishlist
+NEWSLETTER
+SEND MAIL
+Contains Paid: true
+Contains Paid rows count: 2
+Paid row texts: [
+  'Black T-Shirt For WomanMay 10, 2018PaidClick Here To Download Your Invoice',
+  'Maxi DressSep 11, 2018 Paid Click Here To Download Your Invoice'
+]

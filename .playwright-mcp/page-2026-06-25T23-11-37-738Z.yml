@@ -1,0 +1,348 @@
+- generic [ref=e970]:
+  - generic [ref=e973]:
+    - paragraph [ref=e976]:
+      - text: Promoções especiais disponíveis.
+      - link "Aproveitar..." [ref=e977] [cursor=pointer]:
+        - /url: /shop
+    - list [ref=e980]:
+      - listitem [ref=e981]:
+        - link " Login" [ref=e982] [cursor=pointer]:
+          - /url: /login
+          - generic [ref=e983]: 
+          - text: Login
+      - listitem [ref=e984]:
+        - link " Cadastro" [ref=e985] [cursor=pointer]:
+          - /url: /register
+          - generic [ref=e986]: 
+          - text: Cadastro
+  - text:     
+  - generic [ref=e990]:
+    - list [ref=e992]:
+      - listitem [ref=e993]:
+        - link "logo" [ref=e994] [cursor=pointer]:
+          - /url: index.html
+          - img "logo" [ref=e996]
+    - list [ref=e998]:
+      - listitem [ref=e999]:
+        - link "img" [ref=e1000] [cursor=pointer]:
+          - /url: "#!"
+          - img "img" [ref=e1001]
+      - listitem [ref=e1002]:
+        - link " 4" [ref=e1003] [cursor=pointer]:
+          - /url: "#offcanvas-wishlish"
+          - generic [ref=e1004]: 
+          - generic [ref=e1005]: "4"
+      - listitem [ref=e1006]:
+        - link " 3" [ref=e1007] [cursor=pointer]:
+          - /url: "#!"
+          - generic [ref=e1008]: 
+          - generic [ref=e1009]: "3"
+      - listitem [ref=e1010]:
+        - link "" [ref=e1011] [cursor=pointer]:
+          - /url: "#!"
+          - generic [ref=e1012]: 
+  - generic [ref=e1013]:
+    - button "icon" [ref=e1015] [cursor=pointer]:
+      - img "icon" [ref=e1016]
+    - generic [ref=e1017]:
+      - list [ref=e1020]:
+        - listitem [ref=e1021]:
+          - link "Home" [ref=e1022] [cursor=pointer]:
+            - /url: "#!"
+        - listitem [ref=e1023]:
+          - link "Shop" [ref=e1024] [cursor=pointer]:
+            - /url: "#!"
+        - listitem [ref=e1025]:
+          - link "Feature" [ref=e1026] [cursor=pointer]:
+            - /url: "#!"
+        - listitem [ref=e1027]:
+          - link "Blogs" [ref=e1028] [cursor=pointer]:
+            - /url: "#!"
+        - listitem [ref=e1029]:
+          - link "Pages" [ref=e1030] [cursor=pointer]:
+            - /url: "#!"
+      - generic [ref=e1031]:
+        - link "img" [ref=e1033] [cursor=pointer]:
+          - /url: /
+          - img "img" [ref=e1034]
+        - generic [ref=e1035]:
+          - generic [ref=e1036]: "Address: Your address goes here."
+          - generic [ref=e1037]: "Call Us: 0123456789, 0123456789"
+          - generic [ref=e1038]: "Email: demo@example.com"
+        - list [ref=e1039]:
+          - listitem [ref=e1040]:
+            - link "" [ref=e1041] [cursor=pointer]:
+              - /url: "#!"
+              - generic [ref=e1042]: 
+          - listitem [ref=e1043]:
+            - link "" [ref=e1044] [cursor=pointer]:
+              - /url: "#!"
+              - generic [ref=e1045]: 
+          - listitem [ref=e1046]:
+            - link "" [ref=e1047] [cursor=pointer]:
+              - /url: "#!"
+              - generic [ref=e1048]: 
+          - listitem [ref=e1049]:
+            - link "" [ref=e1050] [cursor=pointer]:
+              - /url: "#!"
+              - generic [ref=e1051]: 
+        - list [ref=e1052]:
+          - listitem [ref=e1053]:
+            - link "Wishlist" [ref=e1054] [cursor=pointer]:
+              - /url: /wishlist
+          - listitem [ref=e1055]:
+            - link "Cart" [ref=e1056] [cursor=pointer]:
+              - /url: /cart
+          - listitem [ref=e1057]:
+            - link "Checkout" [ref=e1058] [cursor=pointer]:
+              - /url: /checkout-one
+  - generic [ref=e1059]:
+    - button "icon" [ref=e1061] [cursor=pointer]:
+      - img "icon" [ref=e1062]
+    - generic [ref=e1063]:
+      - generic [ref=e1064]:
+        - img "logo" [ref=e1065]
+        - generic [ref=e1066]: "Address: Your address goes here."
+        - generic [ref=e1067]: "Call Us: 0123456789, 0123456789"
+        - generic [ref=e1068]: "Email: demo@example.com"
+      - list [ref=e1069]:
+        - listitem [ref=e1070]:
+          - link "" [ref=e1071] [cursor=pointer]:
+            - /url: "#!"
+            - generic [ref=e1072]: 
+        - listitem [ref=e1073]:
+          - link "" [ref=e1074] [cursor=pointer]:
+            - /url: "#!"
+            - generic [ref=e1075]: 
+        - listitem [ref=e1076]:
+          - link "" [ref=e1077] [cursor=pointer]:
+            - /url: "#!"
+            - generic [ref=e1078]: 
+        - listitem [ref=e1079]:
+          - link "" [ref=e1080] [cursor=pointer]:
+            - /url: "#!"
+            - generic [ref=e1081]: 
+      - list [ref=e1082]:
+        - listitem [ref=e1083]:
+          - link "Wishlist" [ref=e1084] [cursor=pointer]:
+            - /url: /wishlist
+        - listitem [ref=e1085]:
+          - link "Cart" [ref=e1086] [cursor=pointer]:
+            - /url: /cart
+        - listitem [ref=e1087]:
+          - link "Checkout" [ref=e1088] [cursor=pointer]:
+            - /url: /checkout-one
+  - generic [ref=e1089]:
+    - button "icon" [ref=e1091] [cursor=pointer]:
+      - img "icon" [ref=e1092]
+    - generic [ref=e1093]:
+      - heading "Shopping Cart" [level=4] [ref=e1094]
+      - list [ref=e1095]:
+        - listitem [ref=e1096]:
+          - generic [ref=e1097]:
+            - link "img" [ref=e1098] [cursor=pointer]:
+              - /url: /product-details-one/5
+              - img "img" [ref=e1099]
+            - generic [ref=e1100]:
+              - link "Fit-Flare Dress" [ref=e1101] [cursor=pointer]:
+                - /url: /product-details-one/5
+              - generic [ref=e1102]:
+                - generic [ref=e1103]: 1 x
+                - generic [ref=e1104]: $52
+          - link "" [ref=e1106] [cursor=pointer]:
+            - /url: "#!"
+            - generic [ref=e1107]: 
+        - listitem [ref=e1108]:
+          - generic [ref=e1109]:
+            - link "img" [ref=e1110] [cursor=pointer]:
+              - /url: /product-details-one/6
+              - img "img" [ref=e1111]
+            - generic [ref=e1112]:
+              - link "Midi Dress" [ref=e1113] [cursor=pointer]:
+                - /url: /product-details-one/6
+              - generic [ref=e1114]:
+                - generic [ref=e1115]: 1 x
+                - generic [ref=e1116]: $14
+          - link "" [ref=e1118] [cursor=pointer]:
+            - /url: "#!"
+            - generic [ref=e1119]: 
+        - listitem [ref=e1120]:
+          - generic [ref=e1121]:
+            - link "img" [ref=e1122] [cursor=pointer]:
+              - /url: /product-details-one/7
+              - img "img" [ref=e1123]
+            - generic [ref=e1124]:
+              - link "Tulip Dress" [ref=e1125] [cursor=pointer]:
+                - /url: /product-details-one/7
+              - generic [ref=e1126]:
+                - generic [ref=e1127]: 1 x
+                - generic [ref=e1128]: $41
+          - link "" [ref=e1130] [cursor=pointer]:
+            - /url: "#!"
+            - generic [ref=e1131]: 
+      - generic [ref=e1132]:
+        - generic [ref=e1133]: "Subtotal:"
+        - generic [ref=e1134]: $107.00
+      - list [ref=e1135]:
+        - listitem [ref=e1136]:
+          - link "View Cart" [ref=e1137] [cursor=pointer]:
+            - /url: /cart
+        - listitem [ref=e1138]:
+          - link "Checkout" [ref=e1139] [cursor=pointer]:
+            - /url: /checkout-one
+  - generic [ref=e1140]:
+    - button "icon" [ref=e1142] [cursor=pointer]:
+      - img "icon" [ref=e1143]
+    - generic [ref=e1144]:
+      - heading "Wishlist" [level=4] [ref=e1145]
+      - list [ref=e1146]:
+        - listitem [ref=e1147]:
+          - generic [ref=e1148]:
+            - link "img" [ref=e1149] [cursor=pointer]:
+              - /url: /product-details-one/9
+              - img "img" [ref=e1150]
+            - generic [ref=e1151]:
+              - link "Boho Tops for Girls" [ref=e1152] [cursor=pointer]:
+                - /url: /product-details-one/9
+              - generic [ref=e1153]: 1 x46
+          - link "" [ref=e1155] [cursor=pointer]:
+            - /url: "#!"
+            - generic [ref=e1156]: 
+        - listitem [ref=e1157]:
+          - generic [ref=e1158]:
+            - link "img" [ref=e1159] [cursor=pointer]:
+              - /url: /product-details-one/10
+              - img "img" [ref=e1160]
+            - generic [ref=e1161]:
+              - link "Skater Dress" [ref=e1162] [cursor=pointer]:
+                - /url: /product-details-one/10
+              - generic [ref=e1163]: 1 x74
+          - link "" [ref=e1165] [cursor=pointer]:
+            - /url: "#!"
+            - generic [ref=e1166]: 
+        - listitem [ref=e1167]:
+          - generic [ref=e1168]:
+            - link "img" [ref=e1169] [cursor=pointer]:
+              - /url: /product-details-one/11
+              - img "img" [ref=e1170]
+            - generic [ref=e1171]:
+              - link "Rocking Chair" [ref=e1172] [cursor=pointer]:
+                - /url: /product-details-one/11
+              - generic [ref=e1173]: 1 x918
+          - link "" [ref=e1175] [cursor=pointer]:
+            - /url: "#!"
+            - generic [ref=e1176]: 
+        - listitem [ref=e1177]:
+          - generic [ref=e1178]:
+            - link "img" [ref=e1179] [cursor=pointer]:
+              - /url: /product-details-one/12
+              - img "img" [ref=e1180]
+            - generic [ref=e1181]:
+              - link "Easy Chair" [ref=e1182] [cursor=pointer]:
+                - /url: /product-details-one/12
+              - generic [ref=e1183]: 1 x864
+          - link "" [ref=e1185] [cursor=pointer]:
+            - /url: "#!"
+            - generic [ref=e1186]: 
+      - list [ref=e1187]:
+        - listitem [ref=e1188]:
+          - link "View wishlist" [ref=e1189] [cursor=pointer]:
+            - /url: /wishlist
+  - generic [ref=e1190]:
+    - button "icon" [ref=e1191] [cursor=pointer]:
+      - img "icon" [ref=e1192]
+    - generic:
+      - searchbox "type keyword(s) here" [ref=e1193]
+      - button "Search" [ref=e1194] [cursor=pointer]
+  - generic [ref=e1199]:
+    - heading "Login" [level=3] [ref=e1200]
+    - generic [ref=e1201]:
+      - generic [ref=e1202]: E-mail*
+      - textbox [ref=e1203]
+    - generic [ref=e1204]:
+      - generic [ref=e1205]: Senha*
+      - textbox [ref=e1206]
+    - button "login" [ref=e1208] [cursor=pointer]
+    - generic [ref=e1210]:
+      - checkbox "Lembrar de mim" [ref=e1211]
+      - generic [ref=e1212]: Lembrar de mim
+    - link "Ainda não tem conta?" [ref=e1213] [cursor=pointer]:
+      - /url: /register
+  - contentinfo [ref=e1214]:
+    - generic [ref=e1216]:
+      - generic [ref=e1218]:
+        - link "logo" [ref=e1219] [cursor=pointer]:
+          - /url: /
+          - img "logo" [ref=e1220]
+        - paragraph [ref=e1221]:
+          - strong [ref=e1222]: QAZANDO
+          - text: é o maior e mais completo site de automação de testes do Brasil. Acesse www.qazando.com.br e aproveite os melhores cursos.
+        - list [ref=e1224]:
+          - listitem [ref=e1225]:
+            - link "" [ref=e1226] [cursor=pointer]:
+              - /url: "#!"
+              - generic [ref=e1227]: 
+          - listitem [ref=e1228]:
+            - link "" [ref=e1229] [cursor=pointer]:
+              - /url: "#!"
+              - generic [ref=e1230]: 
+          - listitem [ref=e1231]:
+            - link "" [ref=e1232] [cursor=pointer]:
+              - /url: "#!"
+              - generic [ref=e1233]: 
+          - listitem [ref=e1234]:
+            - link "" [ref=e1235] [cursor=pointer]:
+              - /url: "#!"
+              - generic [ref=e1236]: 
+          - listitem [ref=e1237]:
+            - link "" [ref=e1238] [cursor=pointer]:
+              - /url: "#!"
+              - generic [ref=e1239]: 
+      - generic [ref=e1241]:
+        - heading "INFORMATION" [level=3] [ref=e1242]
+        - list [ref=e1243]:
+          - listitem [ref=e1244]:
+            - link "Home" [ref=e1245] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e1246]:
+            - link "About us" [ref=e1247] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=e1248]:
+            - link "Privacy Policy" [ref=e1249] [cursor=pointer]:
+              - /url: /privacy-policy
+          - listitem [ref=e1250]:
+            - link "Frequently Questions" [ref=e1251] [cursor=pointer]:
+              - /url: /faqs
+          - listitem [ref=e1252]:
+            - link "Order Tracking" [ref=e1253] [cursor=pointer]:
+              - /url: /order-tracking
+          - listitem [ref=e1254]:
+            - link "Compare" [ref=e1255] [cursor=pointer]:
+              - /url: /compare
+      - generic [ref=e1257]:
+        - heading "SHOP" [level=3] [ref=e1258]
+        - list [ref=e1259]:
+          - listitem [ref=e1260]:
+            - link "Cart View One" [ref=e1261] [cursor=pointer]:
+              - /url: /cart
+          - listitem [ref=e1262]:
+            - link "Cart View Two" [ref=e1263] [cursor=pointer]:
+              - /url: /cartTwo
+          - listitem [ref=e1264]:
+            - link "Empty Cart" [ref=e1265] [cursor=pointer]:
+              - /url: /empty-cart
+          - listitem [ref=e1266]:
+            - link "Checkout View One" [ref=e1267] [cursor=pointer]:
+              - /url: /checkout-one
+          - listitem [ref=e1268]:
+            - link "Checkout View Two" [ref=e1269] [cursor=pointer]:
+              - /url: /checkout-two
+          - listitem [ref=e1270]:
+            - link "Wishlist" [ref=e1271] [cursor=pointer]:
+              - /url: /wishlist
+      - generic [ref=e1273]:
+        - heading "NEWSLETTER" [level=3] [ref=e1274]
+        - generic [ref=e1277]:
+          - textbox "Your Mail" [ref=e1278]
+          - button "Send Mail" [ref=e1280] [cursor=pointer]
+    - generic [ref=e1282] [cursor=pointer]: 
